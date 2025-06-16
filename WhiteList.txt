@@ -1,0 +1,128 @@
+Беспроводная сеть
+NVIDIA GeForce RTX 3060 Laptop GPU
+Ресурсы системной платы
+Realtek(R) Audio
+Встроенный контроллер Microsoft, соответствующий стандарту ACPI
+Lenovo Fn and function keys
+Microsoft Surface ACPI-Compliant Control Method Battery
+Динамики (Realtek(R) Audio)
+Порт PCI Express Root
+Корневая очередь печати
+Диспетчер томов
+CMOS системы и часы реального времени
+Системная плата
+Доверенный платформенный модуль 2.0
+OneNote (Desktop)
+Стандартный контроллер SATA AHCI
+WAN Miniport (PPPOE)
+Расширяемый хост-контроллер AMD USB 3.10 — 1.10 (Майкрософт)
+Стандартный главный мост PCI — ЦП
+Базовый видеодрайвер (Майкрософт)
+Программируемый контроллер прерываний
+AMD Link Controller Emulation
+AMD GPIO Controller
+NW TAP-Win32 Adapter V9.21
+VirtualBox Host-Only Ethernet Adapter
+VPN Client Adapter - VPN
+Microsoft RRAS Root Enumerator
+Устройство контейнера процессора ACPI
+Интерфейс управления для ACPI Microsoft Windows
+VMware Virtual Ethernet Adapter for VMnet1
+VMware Virtual Ethernet Adapter for VMnet8
+Realtek PCIe GbE Family Controller
+Устройство ACPI UCM-UCSI
+WAN Miniport (PPTP)
+Драйвер инфраструктуры виртуализации Microsoft Hyper-V
+Контроллер прямого доступа к памяти
+WAN Miniport (IKEv2)
+Перечислитель композитной шины
+Перечислитель виртуальных дисков (Майкрософт)
+Том
+AMD PCI
+Адаптер переменного тока (Майкрософт)
+Контроллер дискового пространства (Майкрософт)
+AMD SMBus
+Microsoft Kernel Debug Network Adapter
+HID-совместимая мышь
+Универсальная теневая копия тома
+AMD Streaming Audio Device
+Microsoft Wi-Fi Direct Virtual Adapter
+Microsoft Wi-Fi Direct Virtual Adapter #2
+Крышка ACPI
+Стандартный контроллер NVM Express
+Стандартный мост PCI — ISA
+Высокоточный таймер событий
+UMBus перечислитель корневой шины
+Драйвер вынесения решения по оплате
+Арифметический сопроцессор
+Realtek Hardware Support Application
+Microsoft Radio Device Enumeration Bus
+Microsoft Device Association Root Enumerator
+Компьютер с ACPI на базе x64
+Контроллер High Definition Audio (Microsoft)
+Nahimic mirroring device
+WAN Miniport (Network Monitor)
+WAN Miniport (IP)
+Универсальный монитор PnP
+PCI Express Root Complex
+Lenovo ACPI-Compliant Virtual Power Controller
+Корневой USB-концентратор (USB 3.0)
+HID-совместимая сенсорная панель
+Универсальный USB-концентратор
+NVIDIA High Definition Audio
+AMD Audio CoProcessor
+Кнопка питания ACPI
+Microsoft ACPI-совместимая система
+Базовый драйвер отрисовки (Майкрософт)
+Fax
+spacedesk Android Control
+Встроенный динамик
+WAN Miniport (SSTP)
+Microsoft UEFI-совместимая система
+Realtek Audio Universal Service
+Фиксированная функциональная кнопка ACPI
+Realtek Bluetooth Adapter
+HID-совместимый системный контроллер
+Элементы управления беспроводным радиоустройством с поддержкой HID
+Устройство HID на шине I2C
+HID-совместимое устройство управления
+Системный таймер
+VMware VMCI Host Device
+Bluetooth
+Клавиатура HID
+Microsoft Input Configuration Device
+Universal Device Client Device Plugins
+spacedesk virtual Bus
+NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+HID-совместимое устройство, определенное поставщиком
+Xvdd SCSI Miniport
+Программный синтезатор звуковой таблицы Microsoft
+SAMSUNG MZVLB512HBJQ-000L2
+Стандартная клавиатура PS/2
+AMD Ryzen 7 5800H with Radeon Graphics         
+ACP HDA Node
+AMD Crash Defender
+Перечислитель виртуальных сетевых адаптеров NDIS
+AMD I2C Controller
+NVIDIA Platform Controllers and Framework
+AMD PSP 10.0 Device
+Универсальный USB-концентратор SuperSpeed
+Microsoft XPS Document Writer
+Встроенное ПО системы
+Встроенное ПО устройства
+Realtek Audio Effects Component
+Драйвер Microsoft System Management BIOS
+OneNote for Windows 10
+Microsoft Print to PDF
+Перечислитель программных устройств Plug and Play
+System Interface Foundation V2 Device
+Universal Device Client Device
+Lenovo Gaming NetFilter Device
+Nefarius Virtual Gamepad Emulation Bus
+USB-устройство ввода
+Шина перенаправителя устройств удаленных рабочих столов
+WAN Miniport (IPv6)
+Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+Nahimic Nh4 Audio Effects Component
+WAN Miniport (L2TP)
+Составное USB устройство

@@ -1,0 +1,10 @@
+fifine Headset
+Динамики (2- fifine Headset)
+Микрофон (2- fifine Headset)
+Famatech Radmin VPN Ethernet Adapter
+AMD Radeon(TM) Graphics
+AMD-Windows Support Components
+AMD-OpenCL User Mode Driver
+Integrated Camera
+Camera DFU Device
+NVIDIA Broadcast
